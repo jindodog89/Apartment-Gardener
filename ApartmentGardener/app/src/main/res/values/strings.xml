@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ApartmentGardener</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_viewlistings">View listings</string>
+    <string name="action_adding">View Listings</string>
+    <string name="title_activity_insert">ApartmentGardener</string>
+    <string name="Title">Put a title</string>
+    <string name="Description">Write down a description</string>
+    <string name="name_str">Username</string>
+    <string name="password_str">Password</string>
+    <string name="login_str">Login</string>
+    <string name="register_str">New? Click here to sign up!</string>
+    <string name="guest_str">Continue as Guest</string>
+    <string name="reenter_pwd_str">Re-enter Password</string>
+    <string name="apt_gardener_str">Apartment Gardener</string>
+    <string name="homeowner_str">Home-owner</string>
+    <string name="sign_up_str">Register</string>
+    <string name="email_str">E-mail</string>
+    <string name="title_activity_land_owner_board">ApartmentGardener</string>
+    <string name="avialable_gardens">Available Gardens</string>
+    <string name="contactOwner_button">Contact Owner</string>
+</resources>

@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.choi.apartmentgardener.MainActivity">
+
+    <item
+        android:id="@+id/action_adding"
+        android:orderInCategory="100"
+        android:title="@string/action_adding"
+        android:icon="@android:drawable/ic_menu_add"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_view_listings"
+        android:orderInCategory="100"
+        android:title="@string/action_viewlistings"
+        app:showAsAction="never" />
+
+</menu>
